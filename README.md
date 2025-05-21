@@ -1,0 +1,1 @@
+:yum: a simple personal blog u can deploy on your machine :hugs:
